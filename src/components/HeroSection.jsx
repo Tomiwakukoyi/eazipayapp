@@ -24,7 +24,7 @@ const HeroSection = () => {
           businesses to manage staff, pay salaries, bills, and relevant taxes
           all at once.
         </p>
-        <button className="bg-[#11453B] hover:bg-white font-light md:mt-5  transition-all duration-300 ease-in-out transform  hover:border-[#11453B] hover:border-[1px] hover:text-[#11453B] text-white  md:w-[270px] md:h-14 rounded-3xl">
+        <button className="bg-[#11453B] hover:bg-white font-light cursor-pointer md:mt-5  transition-all duration-300 ease-in-out transform  hover:border-[#11453B] hover:border-[1px] hover:text-[#11453B] text-white  md:w-[270px] md:h-14 rounded-3xl">
           Start using free, forever
         </button>
         <div className=" mt-20 ml-2">
